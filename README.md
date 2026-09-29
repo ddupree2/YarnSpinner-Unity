@@ -1,3 +1,6 @@
+# Import
+https://github.com/ddupree2/YarnSpinner-Unity.git
+
 # Yarn Spinner for Unity
 
 <img src="https://downloads.yarnspinner.dev/get/YarnSpinnerLogo.png" alt="Yarn Spinner logo" width="100px;" align="right">
